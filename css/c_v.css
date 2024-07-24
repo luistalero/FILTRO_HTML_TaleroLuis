@@ -1,0 +1,250 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #ADB5BD;
+    overflow: hidden;
+}
+a{
+    color: black;
+    display: block;
+    margin: 20px 0px 20px 0px;
+    text-decoration: none;
+}
+
+.s{
+    margin: 0;
+}
+.ca{
+    margin: 20px;
+}
+h1{
+    margin-bottom: 100%;
+}
+.titulo{
+    margin: 0%;
+    margin-left: 10px;
+}
+.CA{
+    background-color:#DEE2E6;
+    height: 90vh;
+    width: 60vw;
+    margin: 20px;
+    margin-left: 10%;
+    border-radius: 20px;
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.infer{
+    margin-top: 80%;
+}
+.carro{
+    display: flex;
+    margin: 20px;
+}
+.contador{
+    border: 1px black solid;
+    background-color:  #ADB5BD;
+    width: 20px;
+    height: 20px;
+    margin-left: 30%;
+    text-align: center;
+}
+.entra{
+    height: 90vh;
+    background-color: #6C757D;
+    margin-left: 10%;
+}
+.t{
+    text-align: center;
+    background-color: #ADB5BD;
+}
+.bri{
+    text-align: center;
+    background-color: #ADB5BD;
+}
+.shirt{
+    text-align: center;
+    background-color: #ADB5BD;
+}
+.pants{
+    border: 1px black solid;
+    text-align: center;
+    background-color: #ADB5BD;
+}
+.carro{
+    border: 1px black solid;
+    background-color: #ADB5BD;
+}
+.t:hover{
+    border: 1px black solid;
+    background-color: #ffffff;
+}
+.bri:hover{
+    border: 1px black solid;
+    background-color: #ffffff;
+}
+.shirt:hover{
+    border: 1px black solid;
+    background-color: #ffffff;
+}
+.pants:hover{
+    border: 1px black solid;
+    background-color: #ffffff;
+}
+.carro:hover{
+    border: 1px black solid;
+    background-color: #ffffff;
+}
+@media (max-width: 600px){
+    *{
+        padding: 0%;
+        margin: 0%;
+    }
+    body{
+        background-color: #ADB5BD;
+    }
+    a{
+        color: black;
+        display: block;
+        margin: 20px 0px 20px 0px;
+        text-decoration: none;
+    }
+    .s{
+        margin: 0;
+    }
+    .ca{
+        margin: 20px;
+    }
+    h1{
+       
+    }
+    .titulo{
+        margin: 0%;
+        margin-left: 10px;
+    }
+    .CA{
+        background-color:#DEE2E6;
+        flex-direction: column;
+        height: 90vh;
+        width: 60vw;
+        margin: 20px;
+        margin-left: 10%;
+        border-radius: 20px;
+        overflow: scroll;
+    }
+    .contenedor{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 20px;
+    }
+    .infer{
+        margin-top: 80%;
+    }
+    .carro{
+        display: flex;
+        margin: 20px;
+    }
+    .contador{
+        border: 1px black solid;
+        background-color: rgb(198, 202, 202);
+        width: 20px;
+        height: 20px;
+        margin-left: 30%;
+        text-align: center;
+    }
+    .entra{
+        height: 80vh;
+        width: 30vw;
+        background-color: #6C757D;
+        margin-left: 1%;
+        flex-direction: row;
+    }
+    .copi{
+        margin-top: 25%;
+        margin: 20px;
+    }
+    .cont{
+        flex-direction: column;
+        margin: 1px;
+        margin-top: 10%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .cont2{
+        flex-direction: column;
+        margin: 1px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10%;
+    }
+    .p{
+        display: block;
+        background-color: white;
+        text-align: center;
+        border-radius: 20px;
+    }
+    .compra{
+        margin-left: 75%;
+        background-color: rgb(198, 202, 202);
+        width: 50px;
+        height: 20px;
+    }
+    .abrigos{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .abrigo{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .abrig{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .abri{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .abr{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .ab{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .a{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px; 
+        border-radius: 20px;
+    }
+    .ba{
+        background-color: #CED4DA;
+        width: 150px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    img{
+        width: 40%;
+    }
+}
